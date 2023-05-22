@@ -1,0 +1,4 @@
+DECLARACAO
+     contagem[5]:inteiro,
+	 contagem[0]<-1
+inicio
