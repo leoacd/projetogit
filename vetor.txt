@@ -1,4 +1,13 @@
+ALGORITMO
 DECLARACAO
-     contagem[5]:inteiro,
-	 contagem[0]<-1
+     lista[10]:inteiro,
+	 numero:inteiro;
+	 i:inteiro;
+	 	 
 inicio
+	para I<-0 de até 9 PASSO 1 FAÇA
+	lista[I]<-1;
+	
+	fim-para
+
+fim-algoritmo
